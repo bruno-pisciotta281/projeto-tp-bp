@@ -24,6 +24,7 @@
 ## &#128221; *Content*
 
 - [x] readme.md - Arquivo onde contém informações sobre o Projeto.
+- [x] projeto-tp-bp.rar - Pasta .rar com os arquivos do Projeto.
 
 
 
